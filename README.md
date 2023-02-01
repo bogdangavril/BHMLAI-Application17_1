@@ -1,6 +1,6 @@
 # BHMLAI-Application17_1
 
-The link to the notebook is: 
+The link to the notebook is: https://github.com/bogdangavril/BHMLAI-Application17_1.git
 
 Data understanding: The dataset collected is related to 17 campaigns that occurred between May 2008 and November 2010, corresponding to a total of 79354 contacts. During these phone campaigns, an attractive long-term deposit application, with good interest rates, was offered. According to the dataset description the data has already been cleaned at the source. 
 
